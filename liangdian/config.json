@@ -1,0 +1,14 @@
+{
+
+  "environment": {
+    "development": {
+      "db": {
+        "host": "127.0.0.1",
+        "database": "liangdian",
+        "port": 27017,
+        "auto_reconnect": true,
+        "url": "127.0.0.1:27017/liangdian?auto_reconnect=true"
+      }
+    }
+  }
+}
